@@ -8,7 +8,7 @@ permalink: /getting-started/
 <span id="getting-started">Getting Started</span>
 <ul class='container' style='display list-item;'>
 <li>
-    <a href="https://chromewebstore.google.com/detail/factchain-community/emgjjedibkjlocjmcjgkeolfkbcicbpl">Download the Factchain browser extension</a> (compatible with Chrome and Brave).
+    <a href="https://chromewebstore.google.com/detail/factchain-community/jpccfghdailacibbnfiomklbmiklpjig">Download the Factchain browser extension</a> (compatible with Chrome and Brave).
 </li>
 <li>
     <a href="https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=fr">Install MetaMask</a>  (support for more wallets will follow).
