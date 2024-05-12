@@ -18,14 +18,6 @@ You can find the source code for Factchain in its [GitHub repository](https://gi
 <li><a href="https://sepolia.etherscan.io/address/0xaC51f5E2664aa966c678Dc935E0d853d3495A48C">X community notes</a></li>
 <br>
 </ul>
-
-**Main Contributors:**
-<ul class='container' style='display list-item;'>
-<li> <a href="https://twitter.com/YBadiss">Yacine B. Badiss</a></li>
-<li> <a href="https://twitter.com/rektorship">Pierre HAY</a></li>
-<li> <a href="https://twitter.com/copeverse">Baptiste Iafrate</a></li>
-</ul>
-
 <br>
 
 Please contact us on [Warpcast](https://warpcast.com/factchain) or [X](https://twitter.com/factchaintech) for any bug report or feature suggestion you may have.
